@@ -31,6 +31,7 @@ You must write each address on a different line. Avoid letting any empty line, o
 
 ## Implementation 
 ![image](./figures/diagram.png)
+
 The class prankster is in charge to create the users and assign them in a group. Each groups have a sender an at least two receivers. Once the groups are created, the mails will be created by the filename in which to choose the content. Once all data are ready, there are send to SmtpSender that will create the mail through smtp commands to a server.
 
 ## MockServer
