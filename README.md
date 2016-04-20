@@ -43,4 +43,4 @@ If you do not want to start with sending messages to a real smtp server, you can
     * If you want to use a different port that the default one add "-p *portNumber*" to your command
 * You can access to the web interface at this address http://localhost:8282
 
-And voilà, you can now send mails without distubating anyone.
+And voilà, you can now send mails without disturbating anyone.
